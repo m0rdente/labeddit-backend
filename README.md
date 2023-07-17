@@ -41,3 +41,5 @@ Este projeto de Back-end tem como principal objetivo estudar e compreender a arq
 
 
 - Para acessar a documentação do projeto, clique [aqui](https://documenter.getpostman.com/view/27038980/2s946h6r1d).
+
+- Frontend do projeto: https://github.com/m0rdente/labeddit-frontend
